@@ -14,7 +14,7 @@ It contains a mix of demographic, financial, employment, and credit-related attr
 1. Logistic Regression
 2. Decision Tree Classifier
 3. K-Nearest Neighbor Classifier
-4. aive Bayes Classifier - Gaussian
+4. Naive Bayes Classifier - Gaussian
 5. Ensemble Model - Random Forest
 6. Ensemble Model - XGBoost
 
