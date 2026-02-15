@@ -24,7 +24,6 @@ df = pd.read_csv("dataset.csv")
 print(df.head())
 
 
-# Change 'target' to your actual target column name
 X = df.drop("Approved", axis=1)
 y = df["Approved"]
 
